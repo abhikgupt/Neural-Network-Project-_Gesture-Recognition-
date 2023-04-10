@@ -1,4 +1,4 @@
-# Neural-Network-Project-Gesture-Recognition-
+# Neural-Network-Project-Gesture-Recognition
 
 ## Team Members
 - Ayush Verma
