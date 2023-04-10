@@ -24,3 +24,7 @@ Each row of the CSV file represents one video and contains three main pieces of 
 
 Your task is to train a model on the 'train' folder which performs well on the 'val' folder as well.
 
+## Goals of the project:
+1. **Generator**: The generator should be able to take a batch of videos as input without any error. Setps like cropping, resizing and normalization should be performed successfully.
+2. **Model**: Develop a model that is able to train without any errors which will be judged on the total number of parameters (as the inference(prediction) time should be less) and the accuracy achieved.
+3. **Write up**: This should contain the detailed procedure followed in choosing the final model. The write up should start with the reason for choosing the base model, then highlight the reasons and metrics taken into consideration to modify and experiment to arrive at the final model.
